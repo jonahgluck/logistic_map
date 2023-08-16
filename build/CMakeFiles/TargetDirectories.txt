@@ -1,0 +1,3 @@
+/Users/jonahgluck/Desktop/logistic/build/CMakeFiles/log_map.dir
+/Users/jonahgluck/Desktop/logistic/build/CMakeFiles/edit_cache.dir
+/Users/jonahgluck/Desktop/logistic/build/CMakeFiles/rebuild_cache.dir
